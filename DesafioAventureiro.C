@@ -25,5 +25,17 @@ int main(){
         r++;
     } while (r <= 5);
     printf("\n");
-    return 0;
+    printf("\n");
+    
+    c = 1;
+	printf("Peça Cavalo\n");
+    while (c--) {
+	for (int i = 0; i <= 1; i++){
+	printf("Baixo\n");
+	} printf("Direita");
+	printf("\n");
+	printf("\n");
+}
+   
+	return 0;
 }
